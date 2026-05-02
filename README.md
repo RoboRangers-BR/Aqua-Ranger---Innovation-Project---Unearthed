@@ -76,7 +76,7 @@ The **Aqua Ranger** is an aquatic exploration ROV *(Remotely Operated Vehicle)* 
 
 ## 📊 Competitive Analysis
 
-| ROV Model | 🔩 Metal Detector | 💰 Below $2,000 | ⚖️ Ballast-Free | 📡 Waterproof Ultrasonic | 🏗️ Lightweight | 🚤 No Boat Needed | 💵 Price |
+| ROV Model | 🔩 Metal Detector | 💰 Costs Below $300 | ⚖️ Ballast-Free | 📡 Panoramic Camera | 🏗️ Lightweight | 🚤 No Boat Needed | 💵 Price |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|---:|
 | **🌊 Aqua Ranger** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **$279.98** |
 | BlueROV | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | $5,071.60 |
