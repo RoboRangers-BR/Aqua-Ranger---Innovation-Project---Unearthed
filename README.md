@@ -9,7 +9,7 @@
 
 ![FLL](https://img.shields.io/badge/FIRST%20LEGO%20League-UNEARTHED-2196a6?style=for-the-badge&labelColor=0a3d62)
 ![Price](https://img.shields.io/badge/Final%20Price-US%24%20279.89-27ae60?style=for-the-badge&labelColor=1a5c38)
-![IP](https://img.shields.io/badge/Utility%20Model-Registered-e67e22?style=for-the-badge&labelColor=7d4e00)
+![IP](https://img.shields.io/badge/Utility%20Model-In%20Process-e67e22?style=for-the-badge&labelColor=7d4e00)
 
 </div>
 
