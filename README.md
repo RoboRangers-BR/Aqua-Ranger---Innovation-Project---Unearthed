@@ -95,8 +95,8 @@ The **Aqua Ranger** is an aquatic exploration ROV *(Remotely Operated Vehicle)* 
 | 🏛️ Field and Technical Researches | 44 |
 | 👨‍🔬 Specialists consulted | 16 |
 | 🎬 Documentaries watched | 29 |
-| 📰 Articles reviewed | 133 |
-| 📖 **Total sources** | **222** |
+| 📰 Articles reviewed | 177 |
+| 📖 **Total sources** | **266** |
 
 ### 👨‍🏫 Specialists Consulted
 
